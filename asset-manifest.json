@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.d36da4e7.css",
+    "main.js": "/My_Portfolio/static/js/main.ffb7ecca.js",
+    "static/media/bannerImg.png": "/My_Portfolio/static/media/bannerImg.5d7a100517a8b0abade3.png",
+    "static/media/contactImg.png": "/My_Portfolio/static/media/contactImg.c0c32b234ad260bf810c.png",
+    "static/media/Yummy.jpg": "/My_Portfolio/static/media/Yummy.930c620ee78668f736dc.jpg",
+    "static/media/movies.jpg": "/My_Portfolio/static/media/movies.d026590fd7adee428bf2.jpg",
+    "static/media/fakestore.jpg": "/My_Portfolio/static/media/fakestore.e5127bd64c004f71458b.jpg",
+    "static/media/InteriorDesign.jpg": "/My_Portfolio/static/media/InteriorDesign.a1e0a21a0bb35545c5ce.jpg",
+    "static/media/my-img.jpg": "/My_Portfolio/static/media/my-img.9dce452eba611c11b814.jpg",
+    "static/media/Exclusive.jpg": "/My_Portfolio/static/media/Exclusive.89c3e2f257e740083cb1.jpg",
+    "static/media/BookMarker.jpg": "/My_Portfolio/static/media/BookMarker.0e69eb32667712713af3.jpg",
+    "static/media/LoginSystem.jpg": "/My_Portfolio/static/media/LoginSystem.f970ef84f7cd6ffd5b64.jpg",
+    "static/media/uptrend.jpg": "/My_Portfolio/static/media/uptrend.a17628b050f7454f9eb2.jpg",
+    "static/media/calculator.jpg": "/My_Portfolio/static/media/calculator.ad0b6d8dccaf27f744dd.jpg",
+    "static/media/testimonialOne.jpg": "/My_Portfolio/static/media/testimonialOne.a70003b7c3a357895d2c.jpg",
+    "static/media/OnlineExaminationSystem.jpg": "/My_Portfolio/static/media/OnlineExaminationSystem.30f2b0c578245072f532.jpg",
+    "static/media/logo.png": "/My_Portfolio/static/media/logo.3ac3cf21bb8ba591ff80.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.d36da4e7.css.map": "/My_Portfolio/static/css/main.d36da4e7.css.map",
+    "main.ffb7ecca.js.map": "/My_Portfolio/static/js/main.ffb7ecca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36da4e7.css",
+    "static/js/main.ffb7ecca.js"
+  ]
+}
