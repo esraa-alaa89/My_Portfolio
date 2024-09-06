@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.d36da4e7.css",
-    "main.js": "/My_Portfolio/static/js/main.ebfa8c70.js",
+    "main.css": "/My_Portfolio/static/css/main.1779b1dd.css",
+    "main.js": "/My_Portfolio/static/js/main.9bbb430e.js",
     "static/media/bannerImg.png": "/My_Portfolio/static/media/bannerImg.5d7a100517a8b0abade3.png",
     "static/media/contactImg.png": "/My_Portfolio/static/media/contactImg.c0c32b234ad260bf810c.png",
     "static/media/Yummy.jpg": "/My_Portfolio/static/media/Yummy.930c620ee78668f736dc.jpg",
@@ -18,11 +18,11 @@
     "static/media/OnlineExaminationSystem.jpg": "/My_Portfolio/static/media/OnlineExaminationSystem.30f2b0c578245072f532.jpg",
     "static/media/logo.png": "/My_Portfolio/static/media/logo.3ac3cf21bb8ba591ff80.png",
     "index.html": "/My_Portfolio/index.html",
-    "main.d36da4e7.css.map": "/My_Portfolio/static/css/main.d36da4e7.css.map",
-    "main.ebfa8c70.js.map": "/My_Portfolio/static/js/main.ebfa8c70.js.map"
+    "main.1779b1dd.css.map": "/My_Portfolio/static/css/main.1779b1dd.css.map",
+    "main.9bbb430e.js.map": "/My_Portfolio/static/js/main.9bbb430e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d36da4e7.css",
-    "static/js/main.ebfa8c70.js"
+    "static/css/main.1779b1dd.css",
+    "static/js/main.9bbb430e.js"
   ]
 }
